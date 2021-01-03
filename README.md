@@ -1,3 +1,11 @@
+# CRUDメソッド練習
+
+## グローバルにインストールする場合
+`npm install -g json-server`
+
+## グローバルにインストールした場合
+`json-server --watch db.json`
+
 ## LICENSE
 The source code is licensed MIT.
 
